@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on 睡前不喝茶&#39;s blog</title>
+    <link>http://localhost:1313/tags/life/</link>
+    <description>Recent content in Life on 睡前不喝茶&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 10 Apr 2024 21:24:57 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second_post</title>
+      <link>http://localhost:1313/posts/second_post/</link>
+      <pubDate>Wed, 10 Apr 2024 21:24:57 +0800</pubDate>
+      <guid>http://localhost:1313/posts/second_post/</guid>
+      <description>Second writing.</description>
+    </item>
+  </channel>
+</rss>
